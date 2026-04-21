@@ -1,5 +1,4 @@
 # Computer Project 5 — Bezier Curves & Revolution Surfaces
-**CSCI 557 / Computer Graphics**
 
 <p align="center">
   <img src="teaser.png" width="560" alt="Teaser image">
